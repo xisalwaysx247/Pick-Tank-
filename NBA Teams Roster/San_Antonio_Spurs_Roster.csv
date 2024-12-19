@@ -1,19 +1,19 @@
-Name,Position,Age,Height,Weight,College,Salary
-Harrison Barnes,SF,32,"6' 8""",225 lbs,North Carolina,"$18,000,000"
-Charles Bassey,C,24,"6' 10""",230 lbs,Western Kentucky,"$2,087,519"
-Malaki Branham,G,21,"6' 4""",180 lbs,Ohio State,"$3,217,920"
-Stephon Castle,G,20,"6' 6""",215 lbs,UConn,"$9,131,760"
-Julian Champagnie,F,23,"6' 8""",217 lbs,St. John's,"$3,000,000"
-Sidy Cissoko,G,20,"6' 6""",200 lbs,--,"$1,891,857"
-Zach Collins,PF,27,"6' 11""",250 lbs,Gonzaga,"$16,741,200"
-David Duke Jr.,G,25,"6' 4""",204 lbs,Providence,--
-Harrison Ingram,F,22,"6' 5""",230 lbs,North Carolina,--
-Keldon Johnson,SF,25,"6' 5""",220 lbs,Kentucky,"$19,000,000"
-Tre Jones,PG,24,"6' 1""",185 lbs,Duke,"$9,104,167"
-Sandro Mamukelashvili,PF,25,"6' 9""",240 lbs,Seton Hall,"$2,087,519"
-Riley Minix,F,24,"6' 7""",230 lbs,Morehead State,--
-Chris Paul,PG,39,"6' 0""",175 lbs,Wake Forest,"$10,460,000"
-Jeremy Sochan,F,21,"6' 8""",230 lbs,Baylor,"$5,570,040"
-Devin Vassell,SG,24,"6' 5""",205 lbs,Florida State,"$29,347,826"
-Victor Wembanyama,C,20,"7' 3""",235 lbs,--,"$12,768,960"
-Blake Wesley,G,21,"6' 3""",185 lbs,Notre Dame,"$2,624,280"
+Player,Position
+Harrison Barnes,SF
+Charles Bassey,C
+Malaki Branham,G
+Stephon Castle,G
+Julian Champagnie,F
+Sidy Cissoko,G
+Zach Collins,PF
+David Duke Jr.,G
+Harrison Ingram,F
+Keldon Johnson,SF
+Tre Jones,PG
+Sandro Mamukelashvili,PF
+Riley Minix,F
+Chris Paul,PG
+Jeremy Sochan,F
+Devin Vassell,SG
+Victor Wembanyama,C
+Blake Wesley,G
